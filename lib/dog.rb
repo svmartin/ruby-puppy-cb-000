@@ -1,6 +1,8 @@
 class Dog
   @@all = []
 
+  att
+
   def initialize(name)
     @name = name
     @@all << self
